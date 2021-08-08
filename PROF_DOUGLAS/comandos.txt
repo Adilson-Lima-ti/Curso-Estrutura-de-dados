@@ -1,0 +1,30 @@
+cd - ... volta igual botao alternar tv
+ls -l (detalhes)
+ls -la (detalhes)
+ls -sh (detalhes com tamanho dos arquivos)
+du (tamanho ocupado no disco de cada arquivo ou pasta)
+du -h formato mais humano 
+du -hs somarizado
+mv arquivo1.txt arquivo2.txt || Renomear arquivo
+
+cp ../nome_do_arquivo .|| Copiar da pasta anterior para atual
+cp arquivo destino
+rm remover
+
+Atalhos
+
+/etc/passwd|more (|more ----pagina a tela)
+/etc/passwd|less (|less - com a seta do teclado..... obs não consegui sair da tela no final.)
+
+criar um txt  e ja escrever
+
+cat > arquivo.txt
+
+escreve e depois ctrl+z
+
+para ler no terminal
+
+vi arquivo.txt ........ depois ctrl+z para sair
+
+apagar diretorio não vazio 
+rm -rf /caminho/ate/diretorio

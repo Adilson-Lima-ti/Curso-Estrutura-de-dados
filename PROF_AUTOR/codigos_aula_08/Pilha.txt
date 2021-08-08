@@ -1,0 +1,4 @@
+Pilha (Lista Encadeada)
+Bem formada, Mal formada...  
+relacionando a abertura e fechamendo de
+{}[]()
